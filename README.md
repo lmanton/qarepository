@@ -1,2 +1,2 @@
 # qarepository
-qa repository for testing
+qa repository for testing APIs
